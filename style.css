@@ -446,3 +446,35 @@ footer p{
     margin:10px 0;
 
 }
+/* Contact Section */
+
+.contact{
+    padding:80px 10%;
+    text-align:center;
+    background:#fff;
+}
+
+.contact h2{
+    font-size:40px;
+    color:#6C63FF;
+    margin-bottom:20px;
+}
+
+.contact p{
+    font-size:20px;
+    margin-bottom:30px;
+}
+
+.contact-buttons{
+    display:flex;
+    justify-content:center;
+    gap:20px;
+    flex-wrap:wrap;
+}
+
+footer{
+    background:#111;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
