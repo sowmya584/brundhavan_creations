@@ -185,3 +185,48 @@ nav ul li a:hover{
         align-items:center;
     }
 }
+.about{
+    padding:100px 10%;
+    text-align:center;
+    background:#fff;
+}
+
+.about h2{
+    font-size:45px;
+    color:#333;
+    margin-bottom:20px;
+}
+
+.about p{
+    max-width:800px;
+    margin:auto;
+    color:#666;
+    line-height:30px;
+    font-size:18px;
+}
+
+.about-container{
+    display:flex;
+    justify-content:center;
+    gap:30px;
+    margin-top:50px;
+    flex-wrap:wrap;
+}
+
+.about-card{
+    width:300px;
+    padding:30px;
+    background:#f8f8f8;
+    border-radius:15px;
+    box-shadow:0 5px 15px rgba(0,0,0,0.1);
+    transition:.3s;
+}
+
+.about-card:hover{
+    transform:translateY(-10px);
+}
+
+.about-card h3{
+    color:#6c63ff;
+    margin-bottom:15px;
+}
