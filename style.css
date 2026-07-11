@@ -276,6 +276,43 @@ nav ul li a:hover{
     line-height:28px;
 }
 /* Projects Section */
+<section id="contact" class="contact">
+
+    <h2>Contact Us</h2>
+
+    <p>
+        Need a professional website for your business?
+        Contact Brundhavan Creations today!
+    </p>
+
+    <div class="contact-details">
+
+        <p>📧 Email: brundhavancreations0110@gmail.com</p>
+
+        <p>📷 Instagram: @brundhavancreations0110</p>
+
+    </div>
+
+    <a href="mailto:brundhavancreations0110@gmail.com?subject=Website%20Enquiry"
+       class="email-btn">
+       📧 Send Email
+    </a>
+
+</section>
+
+<footer>
+
+    <h3>Brundhavan Creations</h3>
+
+    <p>
+        Building Modern & Responsive Websites
+    </p>
+
+    <p>
+        © 2026 Brundhavan Creations. All Rights Reserved.
+    </p>
+
+</footer>
 
 .projects{
     padding:100px 10%;
